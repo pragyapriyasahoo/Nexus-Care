@@ -1,0 +1,6 @@
+{
+  "name": "VIONEX — AI-Powered Personal Health Companion",
+  "description": "VIONEX high-fidelity healthcare monitoring platform with Caregiver Dashboard, Doctor Dashboard, Patient 360°, and Emergency Fall/Heat-Stress simulation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
