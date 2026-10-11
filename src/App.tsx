@@ -41,10 +41,10 @@ const MainLayout: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="flex items-center gap-2">
             <div className="w-6 h-6 rounded-lg bg-teal-600 text-white flex items-center justify-center font-bold text-xs shadow-xs">
-              V
+              N
             </div>
-            <span className="font-bold text-slate-800">VIONEX Health Companion</span>
-            <span>· Smart India Hackathon (SIH) High-Fidelity Prototype</span>
+            <span className="font-bold text-slate-800">Nexus Care Health Companion</span>
+           
           </div>
 
           <div className="flex flex-wrap items-center gap-4 text-[11px]">

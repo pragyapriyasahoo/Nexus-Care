@@ -39,7 +39,7 @@ export const Navbar: React.FC = () => {
             <div>
               <div className="flex items-center gap-2">
                 <span className="font-extrabold text-xl tracking-tight text-slate-900">
-                  VIONEX<span className="text-teal-600 font-bold ml-0.5">.ai</span>
+                  Nexus Care<span className="text-teal-600 font-bold ml-0.5">.ai</span>
                 </span>
                 <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-teal-50 text-teal-700 border border-teal-100">
                   {role === 'caregiver' ? 'Caregiver Portal' : 'Doctor Console'}

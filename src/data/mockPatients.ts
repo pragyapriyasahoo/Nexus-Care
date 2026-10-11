@@ -82,8 +82,8 @@ export const INITIAL_MESSAGES: VionexMessage[] = [
   {
     id: 'msg-2',
     sender: 'patient',
-    text: 'Thank you Vionex, I am drinking ORS water now.',
-    textHi: 'धन्यवाद वियोनेक्स, मैं अभी ओआरएस का पानी पी रहा हूँ।',
+    text: 'Thank you Nexus Care, I am drinking ORS water now.',
+    textHi: 'धन्यवाद नेक्सस केयर, मैं अभी ओआरएस का पानी पी रहा हूँ।',
     timestamp: '12:48 PM',
   },
   {

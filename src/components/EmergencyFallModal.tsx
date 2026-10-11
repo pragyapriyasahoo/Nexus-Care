@@ -77,7 +77,7 @@ export const EmergencyFallModal: React.FC = () => {
               </div>
               <div>
                 <span className="text-[11px] font-bold uppercase tracking-wider text-amber-900">
-                  VIONEX Smart Speaker Room Prompt:
+                  Nexus Care Smart Speaker Room Prompt:
                 </span>
                 <p className="text-sm font-semibold text-slate-800 mt-1 italic">
                   "{isHindi

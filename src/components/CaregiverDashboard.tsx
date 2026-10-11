@@ -425,7 +425,7 @@ export const CaregiverDashboard: React.FC = () => {
           </div>
 
           <div className="relative z-10 pt-3 border-t border-slate-700/60 flex items-center justify-between text-[11px] text-slate-400">
-            <span>VIONEX Bio-Engine v4.2</span>
+            <span>Nexus Care Bio-Engine v4.2</span>
             <span className="text-teal-400 font-semibold">Continuous Telemetry</span>
           </div>
 
